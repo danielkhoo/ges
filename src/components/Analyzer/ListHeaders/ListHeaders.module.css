@@ -1,0 +1,16 @@
+.ListHeaders {
+  display: flex;
+}
+.col {
+  font-size: 1rem;
+  margin: 15px auto;
+  font-weight: bold;
+  text-align: center;
+}
+
+.subHeading {
+  margin: 10px auto;
+  flex: 1;
+  font-size: 1rem;
+  font-weight: bold;
+}

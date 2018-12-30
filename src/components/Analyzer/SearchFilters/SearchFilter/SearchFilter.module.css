@@ -1,0 +1,27 @@
+.SearchFilter {
+  margin: 5px;
+  padding: 5px;
+  border: 2px solid #40a4c8;
+  border-radius: 3px;
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.active {
+  background-color: gray;
+}
+
+.SearchFilter:hover {
+  color: #40a4c8;
+}
+/* .SearchFilter a {
+    text-decoration: none;
+    width: 100%;
+  }
+.SearchFilter a:hover,
+.SearchFilter a:active,
+.SearchFilter a.active {
+  color: #40a4c8;
+} */
