@@ -1,0 +1,7 @@
+.ListLabel {
+  font-size: 1rem;
+  font-weight: bold;
+  border-bottom: 1px solid #000000;
+  margin: 10px 30px;
+  padding: 0 0 5px 20px;
+}
