@@ -5,6 +5,7 @@ import ListItems from './../../components/Analyzer/ListItems/ListItems';
 import SearchBar from './../../components/Analyzer/SearchBar/SearchBar';
 import SearchFilters from './../../components/Analyzer/SearchFilters/SearchFilters';
 import data from './data';
+import classes from './DegreeAnalyzer.module.css';
 const fullDataset = data;
 class DegreeAnalyzer extends Component {
   state = {
@@ -250,8 +251,10 @@ class DegreeAnalyzer extends Component {
           removeFilter={this.removeFilterHandler}
           filters={this.state.filters}
         />
-        <ListHeaders />
-        <ListItems items={this.state.filteredItems} />
+        <div className={classes.ResultsTable}>
+          <ListHeaders />
+          <ListItems items={this.state.filteredItems} />
+        </div>
       </Aux>
     );
   }

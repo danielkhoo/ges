@@ -1,20 +1,33 @@
 .SearchFilter {
-  margin: 5px;
-  padding: 5px;
-  border: 2px solid #40a4c8;
-  border-radius: 3px;
+  margin: 6px;
+  padding: 12px 0px;
+
+  border: 2px solid grey;
+  border-top: none;
+  border-left: none;
+  border-right: none;
   box-sizing: border-box;
   display: block;
   width: 100%;
   text-align: center;
+  box-shadow: 0px 0px 1px 0px #dedede;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 700;
 }
 
 .active {
-  background-color: gray;
+  border: 3px solid #40a4c8;
+  border-top: none;
+  border-left: none;
+  border-right: none;
 }
 
-.SearchFilter:hover {
-  color: #40a4c8;
+/*desktop only*/
+
+@media (min-width: 500px) {
+  .SearchFilter:hover {
+    border-color: #40a4c8;
+  }
 }
 /* .SearchFilter a {
     text-decoration: none;

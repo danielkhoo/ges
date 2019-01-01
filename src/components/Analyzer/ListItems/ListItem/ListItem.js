@@ -3,7 +3,7 @@ import classes from './ListItem.module.css';
 const listItem = props => {
   return (
     <div className={classes.ListItemRow}>
-      <div className={classes.ListItemCol} style={{ flex: 3 }}>
+      <div className={classes.ListItemCol} style={{ flex: 5 }}>
         {props.data.degree}
       </div>
       <div className={classes.ListItemCol} style={{ flex: 2 }}>

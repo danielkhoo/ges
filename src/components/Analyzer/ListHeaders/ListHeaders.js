@@ -3,7 +3,7 @@ import classes from './ListHeaders.module.css';
 const ListHeaders = props => {
   return (
     <div className={classes.ListHeaders}>
-      <div className={classes.col} style={{ flex: 3 }}>
+      <div className={classes.col} style={{ flex: 5 }}>
         Degree
       </div>
       <div className={classes.col} style={{ flex: 2 }}>

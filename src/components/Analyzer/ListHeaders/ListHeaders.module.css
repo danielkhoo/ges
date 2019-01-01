@@ -2,15 +2,15 @@
   display: flex;
 }
 .col {
-  font-size: 1rem;
-  margin: 15px auto;
+  font-size: 0.8rem;
+  margin: 15px auto 5px auto;
   font-weight: bold;
   text-align: center;
 }
 
 .subHeading {
-  margin: 10px auto;
+  margin: 10px auto 0px auto;
   flex: 1;
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-weight: bold;
 }

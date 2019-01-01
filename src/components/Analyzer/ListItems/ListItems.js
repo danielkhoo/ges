@@ -10,9 +10,9 @@ const ListItems = props => {
         if (groups.indexOf(item.group) === -1) {
           groups.push(item.group);
           return (
-            <Aux>
+            <Aux key={item.degree}>
               <ListLabel>{item.group}</ListLabel>
-              <ListItem key={item.degree} data={{ ...item }} />
+              <ListItem data={{ ...item }} />
             </Aux>
           );
         } else {

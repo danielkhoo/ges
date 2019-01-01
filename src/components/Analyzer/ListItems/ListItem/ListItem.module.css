@@ -3,7 +3,8 @@
 }
 
 .ListItemCol {
-  margin: 15px auto;
-  font-size: 1rem;
+  /* margin: 15px auto; */
+  padding: 10px 0px;
+  font-size: 0.8rem;
   text-align: center;
 }
