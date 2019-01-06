@@ -7,8 +7,7 @@ import {
   XAxis,
   YAxis,
   Label,
-  Tooltip,
-  Legend
+  Tooltip
 } from 'recharts';
 import CustomTooltipContent from './CustomToolTipContent/CustomTooltipContent';
 import classes from './Chart.module.css';
@@ -49,7 +48,8 @@ const chart = props => {
           </XAxis>
           <YAxis
             type='number'
-            ticks={[0, 2000, 3000, 4000, 5000, 6000]}
+            domain={['dataMin', 'dataMax']}
+            ticks={[2000, 3000, 4000, 5000]}
             dataKey={'mean'}
             name='Mean Monthly Salary'
             padding={{ left: 0, right: 0 }}
