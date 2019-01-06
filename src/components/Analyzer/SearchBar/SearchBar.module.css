@@ -1,7 +1,11 @@
-.SearchBar {
-  margin: 10px auto;
-  display: block;
+.SearchContainer {
+  position: relative;
+  margin: 10px auto 10px;
   width: 90%;
+}
+
+.SearchBar {
+  width: 100%;
   font-size: 1.5rem;
   background: none;
   border-bottom: 2px solid #000000;
@@ -13,4 +17,22 @@
   border-radius: 25px;
   line-height: 45px;
   text-align: center;
+}
+
+.SearchBarIcon {
+  position: absolute;
+  top: 12px;
+  right: 20px;
+  height: 25px;
+  width: 25px;
+  fill: grey;
+}
+.SearchBar:focus + .SearchBarIcon {
+  fill: #ffffff;
+}
+
+@media (min-width: 500px) {
+  .SearchContainer {
+    width: 50%;
+  }
 }

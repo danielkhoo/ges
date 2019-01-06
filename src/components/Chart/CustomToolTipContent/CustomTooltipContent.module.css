@@ -1,0 +1,24 @@
+.Tooltip {
+  max-width: 300px;
+  padding-left: 10px;
+  background: white;
+  opacity: 0.9;
+}
+.TooltipHeading {
+  font-size: 0.6rem;
+}
+.TooltipText {
+  font-size: 0.8rem;
+}
+@media (min-width: 500px) {
+  .Tooltip {
+    background: white;
+    opacity: 0.9;
+  }
+  .TooltipHeading {
+    font-size: 0.9rem;
+  }
+  .TooltipText {
+    font-size: 1rem;
+  }
+}

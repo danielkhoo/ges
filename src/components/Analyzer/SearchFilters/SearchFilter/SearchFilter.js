@@ -11,6 +11,15 @@ const searchFilter = props => {
   return (
     <li className={attachedClasses.join(' ')} onClick={click}>
       {props.children}
+      <div
+        style={{
+          background: props.color,
+          width: '9px',
+          height: '9px',
+          'border-radius': ' 50%',
+          margin: '5px auto 0px'
+        }}
+      />
     </li>
   );
 };

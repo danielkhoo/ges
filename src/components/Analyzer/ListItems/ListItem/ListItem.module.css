@@ -8,3 +8,9 @@
   font-size: 0.8rem;
   text-align: center;
 }
+
+@media (min-width: 500px) {
+  .ListItemCol {
+    font-size: 1rem;
+  }
+}

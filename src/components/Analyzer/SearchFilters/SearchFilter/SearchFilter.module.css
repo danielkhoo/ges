@@ -16,6 +16,7 @@
 }
 
 .active {
+  box-shadow: 0px 0px 3px 0px #dedede;
   border: 3px solid #40a4c8;
   border-top: none;
   border-left: none;
@@ -26,15 +27,7 @@
 
 @media (min-width: 500px) {
   .SearchFilter:hover {
-    border-color: #40a4c8;
+    border-bottom-width: 3px;
+    /* border-color: #40a4c8; */
   }
 }
-/* .SearchFilter a {
-    text-decoration: none;
-    width: 100%;
-  }
-.SearchFilter a:hover,
-.SearchFilter a:active,
-.SearchFilter a.active {
-  color: #40a4c8;
-} */

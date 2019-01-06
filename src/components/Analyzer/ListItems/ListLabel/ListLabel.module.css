@@ -6,3 +6,9 @@
   text-align: center;
   padding-bottom: 5px;
 }
+
+@media (min-width: 500px) {
+  .ListLabel {
+    font-size: 1rem;
+  }
+}

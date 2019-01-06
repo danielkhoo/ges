@@ -14,3 +14,12 @@
   font-size: 0.8rem;
   font-weight: bold;
 }
+
+@media (min-width: 500px) {
+  .col {
+    font-size: 1rem;
+  }
+  .subHeading {
+    font-size: 1rem;
+  }
+}
