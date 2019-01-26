@@ -1,0 +1,35 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/DegreeAnalyzer": [
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/css/commons.315aea7d.chunk.css",
+      "static/chunks/commons.855695b43072d3014f4b.js",
+      "static/runtime/main-536c5e947d83e9a1b386.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/css/commons.315aea7d.chunk.css",
+      "static/chunks/commons.855695b43072d3014f4b.js",
+      "static/runtime/main-536c5e947d83e9a1b386.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/css/commons.315aea7d.chunk.css",
+      "static/chunks/commons.855695b43072d3014f4b.js",
+      "static/runtime/main-536c5e947d83e9a1b386.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/css/commons.315aea7d.chunk.css",
+      "static/chunks/commons.855695b43072d3014f4b.js",
+      "static/runtime/main-536c5e947d83e9a1b386.js"
+    ],
+    "/": [
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/css/commons.315aea7d.chunk.css",
+      "static/chunks/commons.855695b43072d3014f4b.js",
+      "static/runtime/main-536c5e947d83e9a1b386.js"
+    ]
+  }
+}
