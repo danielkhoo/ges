@@ -1,6 +1,6 @@
-import React from 'react';
-import classes from './ListHeaders.module.css';
-const ListHeaders = props => {
+import React from 'react'
+import classes from './ListHeaders.module.css'
+const ListHeaders: React.SFC<{}> = props => {
   return (
     <div className={classes.ListHeaders}>
       <div className={classes.col} style={{ flex: 5 }}>
@@ -17,7 +17,7 @@ const ListHeaders = props => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default ListHeaders;
+export default ListHeaders

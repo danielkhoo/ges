@@ -1,6 +1,11 @@
-import React from 'react';
-import classes from './ListItem.module.css';
-const listItem = props => {
+import React from 'react'
+import classes from './ListItem.module.css'
+import { Degree } from '../../../../classes/Degree'
+
+export interface Props {
+  data: Degree
+}
+const listItem: React.SFC<Props> = props => {
   return (
     <div className={classes.ListItemRow}>
       <div className={classes.ListItemCol} style={{ flex: 5 }}>
@@ -16,7 +21,7 @@ const listItem = props => {
         {props.data.median}
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default listItem;
+export default listItem
