@@ -1,6 +1,11 @@
 import React from 'react';
 import classes from './SearchBar.module.css';
-const searchBar = props => {
+
+export interface IProps {
+  changed(event: any): void;
+  keypress(event: any): void;
+}
+const searchBar: React.SFC<IProps> = props => {
   return (
     <div className={classes.SearchContainer}>
       <input

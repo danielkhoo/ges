@@ -1,6 +1,12 @@
 import React from 'react';
 import classes from './SearchFilter.module.css';
-const searchFilter = props => {
+export interface IProps {
+  add(event: any): void;
+  remove(event: any): void;
+  color: string;
+  active: boolean;
+}
+const searchFilter: React.SFC<IProps> = props => {
   let attachedClasses = [classes.SearchFilter];
   let click = () => props.add(props.children);
   if (props.active) {

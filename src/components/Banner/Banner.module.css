@@ -1,15 +1,20 @@
 .Banner {
   background: black;
   color: white;
-  padding: 40px;
+  padding: 30px 40px 30px;
   /* font-family: 'IBM Plex Sans', sans-serif; */
 }
 
 .BannerTitle {
   font-size: 3.2rem;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .BannerSubtitle {
   color: gainsboro;
+}
+
+a {
+  color: white;
+  text-decoration: underline;
 }
