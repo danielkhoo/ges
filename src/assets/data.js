@@ -66,7 +66,7 @@ const data = {
       school: 'NUS'
     },
     {
-      degree: 'Bachelor of Engineering (Engineering Science) (2018)',
+      degree: 'Bachelor of Engineering (Engineering Science) (2017)',
       employment: 64.7,
       mean: 3783,
       median: 3600,
@@ -196,7 +196,7 @@ const data = {
     },
 
     {
-      degree: 'Bachelor of Arts (Architecture) (2018)',
+      degree: 'Bachelor of Arts (Architecture) (2017)',
       employment: 86.4,
       mean: 4037,
       median: 4000,
@@ -229,7 +229,7 @@ const data = {
     },
 
     {
-      degree: 'Bachelor of Medicine And Bachelor Of Surgery (2018)',
+      degree: 'Bachelor of Medicine And Bachelor Of Surgery (2017)',
       employment: 100.0,
       mean: 4367,
       median: 4500,
@@ -697,7 +697,7 @@ const data = {
   ],
   SIT: [
     {
-      degree: 'Bachelor of Arts in Game Design  (2018)',
+      degree: 'Bachelor of Arts in Game Design  (2017)',
       employment: 92.3,
       mean: 3040,
       median: 3000,
@@ -705,7 +705,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Fine Arts in Digital Arts & Animation (2018)',
+      degree: 'Bachelor of Fine Arts in Digital Arts & Animation (2017)',
       employment: 69.2,
       mean: 2859,
       median: 2825,
@@ -713,7 +713,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Science in Computer Science & Game Design (2018)',
+      degree: 'Bachelor of Science in Computer Science & Game Design (2017)',
       employment: 100.0,
       mean: 3232,
       median: 3250,
@@ -721,7 +721,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Science in Computer Science in Real- Time Interactive Simulation  (2018)',
+      degree: 'Bachelor of Science in Computer Science in Real- Time Interactive Simulation  (2017)',
       employment: 90.6,
       mean: 3898,
       median: 3800,
@@ -729,7 +729,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Arts with Honours in Communication Design (2018)',
+      degree: 'Bachelor of Arts with Honours in Communication Design (2017)',
       employment: 68.5,
       mean: 2819,
       median: 2600,
@@ -737,7 +737,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Arts with Honours in Interior Design (2018)',
+      degree: 'Bachelor of Arts with Honours in Interior Design (2017)',
       employment: 87.2,
       mean: 2818,
       median: 2700,
@@ -746,7 +746,7 @@ const data = {
     },
 
     {
-      degree: 'Bachelor of Engineering with Honours in Chemical Engineering (2018)',
+      degree: 'Bachelor of Engineering with Honours in Chemical Engineering (2017)',
       employment: 62.1,
       mean: 3061,
       median: 3100,
@@ -754,7 +754,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Engineering with Honours in Electrical Power Engineering (2018)',
+      degree: 'Bachelor of Engineering with Honours in Electrical Power Engineering (2017)',
       employment: 88.9,
       mean: 3191,
       median: 3200,
@@ -762,7 +762,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Engineering with Honours in Marine Engineering (2018)',
+      degree: 'Bachelor of Engineering with Honours in Marine Engineering (2017)',
       employment: 88.5,
       mean: 3461,
       median: 3300,
@@ -770,7 +770,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Engineering with Honours in Mechanical Design & Manufacturing Engineering (2018)',
+      degree: 'Bachelor of Engineering with Honours in Mechanical Design & Manufacturing Engineering (2017)',
       employment: 85.7,
       mean: 3063,
       median: 3000,
@@ -778,7 +778,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Engineering with Honours in Naval Architecture (2018)',
+      degree: 'Bachelor of Engineering with Honours in Naval Architecture (2017)',
       employment: 95.5,
       mean: 3451,
       median: 3300,
@@ -786,7 +786,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Engineering with Honours in Offshore Engineering (2018)',
+      degree: 'Bachelor of Engineering with Honours in Offshore Engineering (2017)',
       employment: 86.7,
       mean: 3792,
       median: 3300,
@@ -794,7 +794,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Science with Honours in Food & Human Nutrition (2018)',
+      degree: 'Bachelor of Science with Honours in Food & Human Nutrition (2017)',
       employment: 79.1,
       mean: 2784,
       median: 2600,
@@ -802,7 +802,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Science in Chemical Engineering (2018)',
+      degree: 'Bachelor of Science in Chemical Engineering (2017)',
       employment: 74.1,
       mean: 3061,
       median: 3000,
@@ -810,7 +810,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Science in Electrical Engineering & Information Technology (2018)',
+      degree: 'Bachelor of Science in Electrical Engineering & Information Technology (2017)',
       employment: 82.8,
       mean: 3504,
       median: 3175,
@@ -819,7 +819,7 @@ const data = {
     },
 
     {
-      degree: 'Bachelor of Professional Studies in Culinary Arts Management (2018)',
+      degree: 'Bachelor of Professional Studies in Culinary Arts Management (2017)',
       employment: 54.4,
       mean: 2357,
       median: 2300,
@@ -827,7 +827,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor in Science (Occupational Therapy) (2018)',
+      degree: 'Bachelor in Science (Occupational Therapy) (2017)',
       employment: 97.1,
       mean: 3217,
       median: 3250,
@@ -835,7 +835,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor in Science (Physiotherapy) (2018)',
+      degree: 'Bachelor in Science (Physiotherapy) (2017)',
       employment: 96.8,
       mean: 3483,
       median: 3350,
@@ -844,7 +844,7 @@ const data = {
     },
 
     {
-      degree: 'Bachelor of Engineering with Honours in Aeronautical Engineering (2018)',
+      degree: 'Bachelor of Engineering with Honours in Aeronautical Engineering (2017)',
       employment: 65.6,
       mean: 3367,
       median: 3100,
@@ -852,7 +852,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Engineering with Honours in Aerospace Systems (2018)',
+      degree: 'Bachelor of Engineering with Honours in Aerospace Systems (2017)',
       employment: 52.5,
       mean: 3207,
       median: 3125,
@@ -860,7 +860,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Engineering with Honours in Mechanical Design Engineering (2018)',
+      degree: 'Bachelor of Engineering with Honours in Mechanical Design Engineering (2017)',
       employment: 87.9,
       mean: 3608,
       median: 3100,
@@ -868,7 +868,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Engineering with Honours in Mechatronics (2018)',
+      degree: 'Bachelor of Engineering with Honours in Mechatronics (2017)',
       employment: 86.5,
       mean: 3412,
       median: 3050,
@@ -876,7 +876,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Science with Honours in Computing Science (2018)',
+      degree: 'Bachelor of Science with Honours in Computing Science (2017)',
       employment: 85.9,
       mean: 3633,
       median: 3600,
@@ -885,7 +885,7 @@ const data = {
     },
 
     {
-      degree: 'Bachelor of Science with Honours in Nursing Practice (2018)',
+      degree: 'Bachelor of Science with Honours in Nursing Practice (2017)',
       employment: 96.5,
       mean: 3507,
       median: 3400,
@@ -893,7 +893,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Arts with Honours in Criminology and Security (2018)',
+      degree: 'Bachelor of Arts with Honours in Criminology and Security (2017)',
       employment: 69.5,
       mean: 3759,
       median: 3800,
@@ -901,7 +901,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Science in Early Childhood Education (2018)',
+      degree: 'Bachelor of Science in Early Childhood Education (2017)',
       employment: 92.9,
       mean: 2883,
       median: 2900,
@@ -909,7 +909,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: 'Bachelor of Accountancy with Honours (2018)',
+      degree: 'Bachelor of Accountancy with Honours (2017)',
       employment: 92.1,
       mean: 3073,
       median: 3050,
@@ -917,7 +917,7 @@ const data = {
       school: 'SIT'
     },
     {
-      degree: ' Bachelor of Hospitality Business with Honours (2018)',
+      degree: ' Bachelor of Hospitality Business with Honours (2017)',
       employment: 84.2,
       mean: 2713,
       median: 2700,

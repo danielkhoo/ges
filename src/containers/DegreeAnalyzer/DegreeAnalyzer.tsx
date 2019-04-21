@@ -22,7 +22,7 @@ export interface IState {
 class DegreeAnalyzer extends Component<IProps, IState> {
   state = {
     input: '',
-    filters: ['NTU', 'SMU'],
+    filters: ['NUS', 'NTU', 'SIT'],
     filteredItems: sampledata
   };
   filterData = (data: any, filters: string[], input: string) => {
@@ -70,7 +70,7 @@ class DegreeAnalyzer extends Component<IProps, IState> {
       <Aux>
         <Banner />
         <Chart chartData={this.state.filteredItems} />
-        <Instructions>Select the one or more schools to view.</Instructions>
+        <Instructions>Select the schools to view.</Instructions>
         <SearchFilters
           addFilter={this.addFilterHandler}
           removeFilter={this.removeFilterHandler}

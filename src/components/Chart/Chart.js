@@ -46,7 +46,7 @@ const chart = props => {
           <YAxis
             type='number'
             domain={['dataMin', 'dataMax']}
-            ticks={[2000, 3000, 4000, 5000]}
+            ticks={[1800, 2000, 3000, 4000, 5000]}
             dataKey={'mean'}
             name='Mean Monthly Salary'
             padding={{ left: 0, right: 0 }}
